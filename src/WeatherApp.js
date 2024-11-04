@@ -55,8 +55,3 @@ export default function WeatherAppApp() {
     return form;
   }
 }
-
-<p>
-  This project was coded by <a href="#"> Nhlanhla Zikalala</a> and is hosted on{" "}
-  <a href="https://github.com/NhlanhlaZiks/index.html"> Github</a>
-</p>;
